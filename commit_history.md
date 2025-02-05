@@ -51,3 +51,4 @@
 2025-02-20T17:35:18: Mise en place rate limiting
 2025-04-09T13:02:28: Mise en place backup auto
 2025-04-10T11:32:06: Ajout filtrage demandes
+2025-02-05T14:59:28: Ajout vérif diplômes profs
