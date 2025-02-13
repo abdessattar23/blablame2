@@ -62,3 +62,4 @@
 2025-02-09T08:27:03: Fix validation email back
 2025-03-22T08:00:23: Ajout validation front forms
 2025-02-19T12:44:56: Correction date picker forms
+2025-02-13T15:48:38: Mise à jour policy cookies
