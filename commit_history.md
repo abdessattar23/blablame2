@@ -21,3 +21,4 @@
 2025-04-13T13:11:19: Ajout confirmation suppression
 2025-03-04T11:59:08: Optimisation requetes API
 2025-04-20T09:54:40: Fix validation numéro tel
+2025-02-18T14:50:32: Mise en place audit sécurité
