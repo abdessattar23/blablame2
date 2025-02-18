@@ -6,3 +6,4 @@
 2025-04-15T10:05:01: Fix rotation logo mobile
 2025-02-20T14:10:05: Ajout tooltips infobulles
 2025-03-09T11:06:30: Ajout logique transaction virement
+2025-02-18T10:09:31: Mise en place midlware admin
