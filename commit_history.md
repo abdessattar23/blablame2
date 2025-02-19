@@ -61,3 +61,4 @@
 2025-02-19T09:31:25: Optimisation build assets
 2025-02-09T08:27:03: Fix validation email back
 2025-03-22T08:00:23: Ajout validation front forms
+2025-02-19T12:44:56: Correction date picker forms
