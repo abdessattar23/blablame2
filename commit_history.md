@@ -4,3 +4,4 @@
 2025-02-04T09:06:04: Création dashboard admin v1
 2025-04-02T17:45:10: Ajout gestion abonnements
 2025-04-15T10:05:01: Fix rotation logo mobile
+2025-02-20T14:10:05: Ajout tooltips infobulles
