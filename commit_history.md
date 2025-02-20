@@ -67,3 +67,4 @@
 2025-03-07T12:43:09: Correction couleur primary
 2025-02-07T14:52:10: Fix faille XSS potentielle
 2025-03-21T13:08:24: Mise à jour config serveur
+2025-02-20T13:54:26: Amélioration perf requetes SQL
