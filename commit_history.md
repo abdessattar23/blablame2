@@ -48,3 +48,4 @@
 2025-03-14T16:11:12: Optimisation perf base de donné
 2025-03-06T11:16:38: Ajout fonction recherche profs
 2025-02-05T17:12:29: Correction bug responsive menu
+2025-02-20T17:35:18: Mise en place rate limiting
