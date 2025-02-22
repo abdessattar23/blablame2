@@ -70,3 +70,4 @@
 2025-02-20T13:54:26: Amélioration perf requetes SQL
 2025-02-19T13:41:29: Correction contrast colors
 2025-02-18T15:59:15: Intégration service analytics
+2025-02-22T17:04:58: Correction tri colonnes table
