@@ -29,3 +29,4 @@
 2025-03-27T11:18:21: Correction responsive tableaux
 2025-03-26T12:56:03: Correction timeout upload
 2025-03-01T09:03:01: Implémentation JWT tokens
+2025-02-24T15:35:10: Gestion erreur transaction bancaire
