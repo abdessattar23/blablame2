@@ -63,3 +63,4 @@
 2025-03-22T08:00:23: Ajout validation front forms
 2025-02-19T12:44:56: Correction date picker forms
 2025-02-13T15:48:38: Mise à jour policy cookies
+2025-02-25T08:51:55: Ajout page contact temporaire
