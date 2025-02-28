@@ -42,3 +42,4 @@
 2025-04-29T16:06:28: Fix cache-control headers
 2025-04-18T10:03:50: Ajout FAQ page basique
 2025-03-30T17:58:00: Ajout gestion maintenance
+2025-02-28T15:56:18: Intégration service SMS
