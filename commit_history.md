@@ -83,3 +83,4 @@
 2025-03-18T10:19:23: Mise à jour dépendances PHP
 2025-03-04T09:49:28: Intégration framework Laravel
 2025-02-23T14:50:16: Correction padding tableau
+2025-02-28T17:14:23: Mise à jour politique confid
