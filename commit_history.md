@@ -53,3 +53,4 @@
 2025-04-10T11:32:06: Ajout filtrage demandes
 2025-02-05T14:59:28: Ajout vérif diplômes profs
 2025-03-08T08:17:01: Traduction messages d'érreur
+2025-02-28T13:10:04: Ajout système auth basique
