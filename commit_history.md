@@ -36,3 +36,4 @@
 2025-04-08T11:14:22: Ajout notif email pour paiements
 2025-03-14T08:10:50: Intégration ReactJS components
 2025-04-02T08:26:46: Amélioration message bienvenue
+2025-03-01T15:44:44: Mise à jour doc technique
