@@ -87,3 +87,4 @@
 2025-03-12T09:12:27: Ajout gestion versions docs
 2025-04-13T10:35:59: Amélioration accessibilité WCAG
 2025-03-17T08:27:50: Fix paymnt proof uplod flow
+2025-03-03T16:45:45: Fix orthographe profile page
