@@ -19,3 +19,4 @@
 2025-02-12T17:00:51: Optimisation bundle JS
 2025-02-28T10:55:00: Fix transition animations
 2025-04-13T13:11:19: Ajout confirmation suppression
+2025-03-04T11:59:08: Optimisation requetes API
