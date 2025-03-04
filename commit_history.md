@@ -81,3 +81,4 @@
 2025-03-22T12:11:00: Optimisation taille images
 2025-02-11T10:57:16: Ajout stats utilisateurs
 2025-03-18T10:19:23: Mise à jour dépendances PHP
+2025-03-04T09:49:28: Intégration framework Laravel
