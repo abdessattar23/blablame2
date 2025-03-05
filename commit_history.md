@@ -38,3 +38,4 @@
 2025-04-02T08:26:46: Amélioration message bienvenue
 2025-03-01T15:44:44: Mise à jour doc technique
 2025-04-29T16:58:17: Fix margin header mobile
+2025-03-05T08:51:11: Mise à jour icones material
