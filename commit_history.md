@@ -46,3 +46,4 @@
 2025-04-14T17:16:17: Ajout breadcrumb navigation
 2025-04-08T12:18:12: Implémntation chat en temps réel
 2025-03-14T16:11:12: Optimisation perf base de donné
+2025-03-06T11:16:38: Ajout fonction recherche profs
