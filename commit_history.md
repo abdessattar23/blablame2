@@ -9,3 +9,4 @@
 2025-02-18T10:09:31: Mise en place midlware admin
 2025-04-04T16:30:47: Intégration service de cache
 2025-03-19T13:19:15: Mise en place CI/CD basique
+2025-03-07T17:45:32: Ajout gestion erreur 404
