@@ -93,3 +93,4 @@
 2025-03-27T16:34:20: Fix chevauchement éléments
 2025-04-03T17:52:39: Correction alignement badges
 2025-03-18T10:59:28: Ajout système notation profs
+2025-03-08T17:32:06: Correction hauteur textarea
