@@ -74,3 +74,4 @@
 2025-02-19T14:24:23: Fix affichage mobile dashboard
 2025-03-22T17:56:56: Optimisation requetes indexées
 2025-02-17T08:27:45: Fix scroll infini mobile
+2025-03-08T16:39:56: Ajout pagination listes
