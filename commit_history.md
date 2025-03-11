@@ -24,3 +24,4 @@
 2025-02-18T14:50:32: Mise en place audit sécurité
 2025-02-10T10:19:49: Ajout gestion brouillons
 2025-04-04T09:22:32: Ajout système modération avis
+2025-03-11T08:01:37: Fix timeout connexion banq
