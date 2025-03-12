@@ -94,3 +94,4 @@
 2025-04-03T17:52:39: Correction alignement badges
 2025-03-18T10:59:28: Ajout système notation profs
 2025-03-08T17:32:06: Correction hauteur textarea
+2025-03-12T14:01:34: Fix alignement éléments UI
