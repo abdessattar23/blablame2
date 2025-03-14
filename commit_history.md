@@ -45,3 +45,4 @@
 2025-02-28T15:56:18: Intégration service SMS
 2025-04-14T17:16:17: Ajout breadcrumb navigation
 2025-04-08T12:18:12: Implémntation chat en temps réel
+2025-03-14T16:11:12: Optimisation perf base de donné
