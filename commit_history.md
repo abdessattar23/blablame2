@@ -89,3 +89,4 @@
 2025-03-17T08:27:50: Fix paymnt proof uplod flow
 2025-03-03T16:45:45: Fix orthographe profile page
 2025-03-08T11:06:27: Correction bug notif realtime
+2025-03-15T12:26:56: Amélioration page d'acceuil
