@@ -60,3 +60,4 @@
 2025-04-01T12:24:23: Fix validation CINN étudiants
 2025-02-19T09:31:25: Optimisation build assets
 2025-02-09T08:27:03: Fix validation email back
+2025-03-22T08:00:23: Ajout validation front forms
