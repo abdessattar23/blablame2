@@ -72,3 +72,4 @@
 2025-02-18T15:59:15: Intégration service analytics
 2025-02-22T17:04:58: Correction tri colonnes table
 2025-02-19T14:24:23: Fix affichage mobile dashboard
+2025-03-22T17:56:56: Optimisation requetes indexées
