@@ -15,3 +15,4 @@
 2025-04-21T14:04:46: Ajout système favoris
 2025-04-23T10:57:37: Fix overflow contenu cards
 2025-04-03T14:22:28: Ajout loader pendant chargemnt
+2025-03-27T08:55:04: Intégration TailwindCSS v3.4
