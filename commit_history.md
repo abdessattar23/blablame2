@@ -90,3 +90,4 @@
 2025-03-03T16:45:45: Fix orthographe profile page
 2025-03-08T11:06:27: Correction bug notif realtime
 2025-03-15T12:26:56: Amélioration page d'acceuil
+2025-03-27T16:34:20: Fix chevauchement éléments
