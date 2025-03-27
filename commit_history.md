@@ -26,3 +26,4 @@
 2025-04-04T09:22:32: Ajout système modération avis
 2025-03-11T08:01:37: Fix timeout connexion banq
 2025-03-09T12:34:20: Correction timeout session
+2025-03-27T11:18:21: Correction responsive tableaux
