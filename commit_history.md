@@ -41,3 +41,4 @@
 2025-03-05T08:51:11: Mise à jour icones material
 2025-04-29T16:06:28: Fix cache-control headers
 2025-04-18T10:03:50: Ajout FAQ page basique
+2025-03-30T17:58:00: Ajout gestion maintenance
