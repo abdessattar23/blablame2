@@ -56,3 +56,4 @@
 2025-02-28T13:10:04: Ajout système auth basique
 2025-02-15T11:24:42: Correction z-index modal
 2025-03-19T09:30:15: Fix typo dans footer page
+2025-04-01T12:58:13: Mise en place verif documents
