@@ -57,3 +57,4 @@
 2025-04-02T04:54:21: Optimisation perf base de donné
 2025-04-02T00:10:37: Intégration service de cache
 2025-04-02T06:03:22: Ajout système auth basique
+2025-04-02T05:56:20: Implémntation dark mode
