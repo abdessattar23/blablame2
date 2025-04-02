@@ -34,3 +34,4 @@
 2025-04-02T02:15:44: Fix rotation logo mobile
 2025-04-02T03:28:30: Correction padding tableau
 2025-04-02T06:08:10: Fix alignement éléments UI
+2025-04-02T05:28:12: Intégration TailwindCSS v3.4
