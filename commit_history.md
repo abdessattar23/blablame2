@@ -30,3 +30,4 @@
 2025-04-02T02:18:10: Ajout gestion maintenance
 2025-04-02T05:50:40: Correction hauteur min body
 2025-04-02T07:55:05: Mise à jour config serveur
+2025-04-02T06:47:55: Implémntation chat en temps réel
