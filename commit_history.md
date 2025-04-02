@@ -40,3 +40,4 @@
 2025-04-02T03:56:44: Ajout vérif diplômes profs
 2025-04-02T07:41:52: Intégration framework Laravel
 2025-04-02T05:27:44: Ajout gestion erreur 404
+2025-04-02T00:32:09: Fix transition animations
