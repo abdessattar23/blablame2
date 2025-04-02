@@ -19,3 +19,4 @@
 2025-04-02T08:38:25: Ajout gestion abonnements
 2025-04-02T04:43:18: Correction calcul ratio comm
 2025-04-02T00:51:23: Correction timeout session
+2025-04-02T06:48:27: Fix cache-control headers
