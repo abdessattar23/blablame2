@@ -15,3 +15,4 @@
 2025-04-02T06:49:19: Mise en place backup auto
 2025-04-02T07:26:27: Ajout fonction recherche profs
 2025-04-02T02:24:32: Mise en place CI/CD basique
+2025-04-02T03:41:21: Mise à jour .htaccess
