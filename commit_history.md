@@ -12,3 +12,4 @@
 2025-04-02T06:13:34: Fix scroll infini mobile
 2025-04-02T07:48:18: Fix paymnt proof uplod flow
 2025-04-02T06:43:50: Mise à jour policy cookies
+2025-04-02T06:49:19: Mise en place backup auto
