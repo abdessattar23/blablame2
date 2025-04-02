@@ -45,3 +45,4 @@
 2025-04-02T02:07:21: Mise à jour module sécurité
 2025-04-02T08:26:28: Ajout filtrage demandes
 2025-04-02T06:24:14: Correction hauteur textarea
+2025-04-02T07:29:35: Fix overflow contenu cards
