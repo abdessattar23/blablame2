@@ -84,3 +84,4 @@
 2025-04-02T00:13:23: Optimisation requetes API
 2025-04-02T00:40:18: Correction bug notif realtime
 2025-04-02T00:03:25: Optimisation bundle JS
+2025-04-02T03:44:22: Fix orthographe profile page
