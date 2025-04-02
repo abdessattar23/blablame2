@@ -83,3 +83,4 @@
 2025-04-02T02:00:17: Mise en place health check
 2025-04-02T00:13:23: Optimisation requetes API
 2025-04-02T00:40:18: Correction bug notif realtime
+2025-04-02T00:03:25: Optimisation bundle JS
