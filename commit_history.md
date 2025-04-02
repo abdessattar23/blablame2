@@ -66,3 +66,4 @@
 2025-04-02T02:44:59: Mise à jour dépendances PHP
 2025-04-02T04:53:55: Correction conflits de merge
 2025-04-02T02:16:13: Correction date picker forms
+2025-04-02T05:21:06: Ajout loader pendant chargemnt
