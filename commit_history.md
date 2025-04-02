@@ -87,3 +87,4 @@
 2025-04-02T03:44:22: Fix orthographe profile page
 2025-04-02T00:46:53: Fix typo dans footer page
 2025-04-02T01:07:36: Implémentation JWT tokens
+2025-04-02T05:59:00: Mise en place midlware admin
