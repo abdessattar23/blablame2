@@ -94,3 +94,4 @@
 2025-04-02T09:00:16: Mise en place verif documents
 2025-04-02T07:33:31: Intégration ReactJS components
 2025-04-02T06:10:06: Amélioration UX formulaire demande
+2025-04-02T06:30:28: Mise en place rate limiting
