@@ -73,3 +73,4 @@
 2025-04-02T08:14:14: Optimisation taille images
 2025-04-02T08:39:29: Fix affichage mobile dashboard
 2025-04-02T00:29:44: Ajout système modération avis
+2025-04-02T02:38:22: Fix timeout connexion banq
