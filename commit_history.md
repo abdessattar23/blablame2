@@ -89,3 +89,4 @@
 2025-04-02T01:07:36: Implémentation JWT tokens
 2025-04-02T05:59:00: Mise en place midlware admin
 2025-04-02T01:51:04: Création dashboard admin v1
+2025-04-02T01:21:21: Fix faille XSS potentielle
