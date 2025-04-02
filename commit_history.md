@@ -6,3 +6,4 @@
 2025-04-02T01:47:38: Optimisation temps chargement
 2025-04-02T00:25:55: Optimisation build assets
 2025-04-02T04:40:25: Traduction messages d'érreur
+2025-04-02T02:50:37: Ajout pagination listes
