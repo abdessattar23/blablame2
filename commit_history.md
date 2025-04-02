@@ -21,3 +21,4 @@
 2025-04-02T00:51:23: Correction timeout session
 2025-04-02T06:48:27: Fix cache-control headers
 2025-04-02T05:48:51: Mise à jour politique confid
+2025-04-02T08:34:48: Mise à jour icones material
