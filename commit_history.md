@@ -42,3 +42,4 @@
 2025-04-02T05:27:44: Ajout gestion erreur 404
 2025-04-02T00:32:09: Fix transition animations
 2025-04-02T00:24:21: Ajout tooltips infobulles
+2025-04-02T02:07:21: Mise à jour module sécurité
