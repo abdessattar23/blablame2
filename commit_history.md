@@ -59,3 +59,4 @@
 2025-04-02T06:03:22: Ajout système auth basique
 2025-04-02T05:56:20: Implémntation dark mode
 2025-04-02T01:30:29: Fix margin header mobile
+2025-04-02T01:14:38: Ajout notif email pour paiements
