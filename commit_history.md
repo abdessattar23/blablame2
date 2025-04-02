@@ -76,3 +76,4 @@
 2025-04-02T02:38:22: Fix timeout connexion banq
 2025-04-02T00:09:15: Ajout stats utilisateurs
 2025-04-02T04:45:52: Correction tri colonnes table
+2025-04-02T01:31:44: Correction bug responsive menu
