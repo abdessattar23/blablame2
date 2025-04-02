@@ -91,3 +91,4 @@
 2025-04-02T01:51:04: Création dashboard admin v1
 2025-04-02T01:21:21: Fix faille XSS potentielle
 2025-04-02T06:12:22: Mise à jour doc technique
+2025-04-02T09:00:16: Mise en place verif documents
