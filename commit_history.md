@@ -27,3 +27,4 @@
 2025-04-02T02:20:53: Ajout système favoris
 2025-04-02T07:24:15: Ajout gestion versions docs
 2025-04-02T01:01:38: Fix chevauchement éléments
+2025-04-02T02:18:10: Ajout gestion maintenance
