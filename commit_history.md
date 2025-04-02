@@ -9,3 +9,4 @@
 2025-04-02T02:50:37: Ajout pagination listes
 2025-04-02T07:44:06: Correction responsive tableaux
 2025-04-02T07:11:18: Correction alignement badges
+2025-04-02T06:13:34: Fix scroll infini mobile
