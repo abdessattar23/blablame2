@@ -33,3 +33,4 @@
 2025-04-02T06:47:55: Implémntation chat en temps réel
 2025-04-02T02:15:44: Fix rotation logo mobile
 2025-04-02T03:28:30: Correction padding tableau
+2025-04-02T06:08:10: Fix alignement éléments UI
