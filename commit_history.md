@@ -50,3 +50,4 @@
 2025-04-02T02:20:03: Ajout validation front forms
 2025-04-02T00:11:39: Intégration service SMS
 2025-04-02T00:31:38: Fix validation numéro tel
+2025-04-02T08:29:49: Amélioration message bienvenue
