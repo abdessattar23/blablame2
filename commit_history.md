@@ -32,3 +32,4 @@
 2025-04-02T07:55:05: Mise à jour config serveur
 2025-04-02T06:47:55: Implémntation chat en temps réel
 2025-04-02T02:15:44: Fix rotation logo mobile
+2025-04-02T03:28:30: Correction padding tableau
