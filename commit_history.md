@@ -52,3 +52,4 @@
 2025-04-02T00:31:38: Fix validation numéro tel
 2025-04-02T08:29:49: Amélioration message bienvenue
 2025-04-02T06:55:07: Fix validation CINN étudiants
+2025-04-02T03:03:23: Correction couleur primary
