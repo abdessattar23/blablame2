@@ -96,3 +96,4 @@
 2025-04-02T06:10:06: Amélioration UX formulaire demande
 2025-04-02T06:30:28: Mise en place rate limiting
 2025-04-02T03:11:54: Gestion erreur transaction bancaire
+2025-04-02T04:04:55: Fix encodage caractères spé
