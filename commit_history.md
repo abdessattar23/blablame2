@@ -26,3 +26,4 @@
 2025-04-02T04:46:16: Amélioration perf requetes SQL
 2025-04-02T02:20:53: Ajout système favoris
 2025-04-02T07:24:15: Ajout gestion versions docs
+2025-04-02T01:01:38: Fix chevauchement éléments
