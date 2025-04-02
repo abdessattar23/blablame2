@@ -38,3 +38,4 @@
 2025-04-02T05:42:55: Correction bug inscription etud
 2025-04-02T00:59:30: Amélioration page d'acceuil
 2025-04-02T03:56:44: Ajout vérif diplômes profs
+2025-04-02T07:41:52: Intégration framework Laravel
