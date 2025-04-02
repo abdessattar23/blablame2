@@ -23,3 +23,4 @@
 2025-04-02T05:48:51: Mise à jour politique confid
 2025-04-02T08:34:48: Mise à jour icones material
 2025-04-02T06:58:49: Ajout FAQ page basique
+2025-04-02T04:46:16: Amélioration perf requetes SQL
