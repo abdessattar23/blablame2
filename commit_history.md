@@ -36,3 +36,4 @@
 2025-04-02T06:08:10: Fix alignement éléments UI
 2025-04-02T05:28:12: Intégration TailwindCSS v3.4
 2025-04-02T05:42:55: Correction bug inscription etud
+2025-04-02T00:59:30: Amélioration page d'acceuil
