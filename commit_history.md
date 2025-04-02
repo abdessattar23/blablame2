@@ -70,3 +70,4 @@
 2025-04-02T08:31:23: Ajout page contact temporaire
 2025-04-02T05:50:29: Ajout breadcrumb navigation
 2025-04-02T00:05:43: Optimisation requetes indexées
+2025-04-02T08:14:14: Optimisation taille images
