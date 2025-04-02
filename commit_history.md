@@ -49,3 +49,4 @@
 2025-04-02T00:23:11: Ajout système notation profs
 2025-04-02T02:20:03: Ajout validation front forms
 2025-04-02T00:11:39: Intégration service SMS
+2025-04-02T00:31:38: Fix validation numéro tel
