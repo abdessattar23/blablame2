@@ -8,3 +8,4 @@
 2025-04-02T04:40:25: Traduction messages d'érreur
 2025-04-02T02:50:37: Ajout pagination listes
 2025-04-02T07:44:06: Correction responsive tableaux
+2025-04-02T07:11:18: Correction alignement badges
