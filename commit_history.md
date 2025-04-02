@@ -10,3 +10,4 @@
 2025-04-02T07:44:06: Correction responsive tableaux
 2025-04-02T07:11:18: Correction alignement badges
 2025-04-02T06:13:34: Fix scroll infini mobile
+2025-04-02T07:48:18: Fix paymnt proof uplod flow
