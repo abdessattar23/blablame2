@@ -35,3 +35,4 @@
 2025-02-22T15:26:47: Mise à jour module sécurité
 2025-04-08T11:14:22: Ajout notif email pour paiements
 2025-03-14T08:10:50: Intégration ReactJS components
+2025-04-02T08:26:46: Amélioration message bienvenue
