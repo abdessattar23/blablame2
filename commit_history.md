@@ -62,3 +62,4 @@
 2025-04-02T01:14:38: Ajout notif email pour paiements
 2025-04-02T03:26:53: Ajout gestion erreur 500
 2025-04-02T03:00:52: Intégration service analytics
+2025-04-02T07:45:52: Ajout endpoint API demandes
