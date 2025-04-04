@@ -7,3 +7,4 @@
 2025-02-20T14:10:05: Ajout tooltips infobulles
 2025-03-09T11:06:30: Ajout logique transaction virement
 2025-02-18T10:09:31: Mise en place midlware admin
+2025-04-04T16:30:47: Intégration service de cache
