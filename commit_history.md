@@ -44,3 +44,4 @@
 2025-03-30T17:58:00: Ajout gestion maintenance
 2025-02-28T15:56:18: Intégration service SMS
 2025-04-14T17:16:17: Ajout breadcrumb navigation
+2025-04-08T12:18:12: Implémntation chat en temps réel
