@@ -33,3 +33,4 @@
 2025-02-15T13:07:55: Fix encodage caractères spé
 2025-03-14T15:20:54: Mise à jour .htaccess
 2025-02-22T15:26:47: Mise à jour module sécurité
+2025-04-08T11:14:22: Ajout notif email pour paiements
