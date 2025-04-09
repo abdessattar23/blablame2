@@ -49,3 +49,4 @@
 2025-03-06T11:16:38: Ajout fonction recherche profs
 2025-02-05T17:12:29: Correction bug responsive menu
 2025-02-20T17:35:18: Mise en place rate limiting
+2025-04-09T13:02:28: Mise en place backup auto
