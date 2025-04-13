@@ -18,3 +18,4 @@
 2025-03-27T08:55:04: Intégration TailwindCSS v3.4
 2025-02-12T17:00:51: Optimisation bundle JS
 2025-02-28T10:55:00: Fix transition animations
+2025-04-13T13:11:19: Ajout confirmation suppression
