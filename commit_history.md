@@ -77,3 +77,4 @@
 2025-03-08T16:39:56: Ajout pagination listes
 2025-04-06T15:55:28: Optimisation temps chargement
 2025-02-17T11:26:31: Implémntation dark mode
+2025-04-18T17:03:12: Correction bug inscription etud
