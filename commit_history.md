@@ -13,3 +13,4 @@
 2025-03-23T09:53:40: Correction hauteur min body
 2025-02-19T09:09:52: Ajout endpoint API demandes
 2025-04-21T14:04:46: Ajout système favoris
+2025-04-23T10:57:37: Fix overflow contenu cards
