@@ -96,3 +96,4 @@
 2025-03-08T17:32:06: Correction hauteur textarea
 2025-03-12T14:01:34: Fix alignement éléments UI
 2025-04-05T09:51:48: Ajout gestion erreur 500
+2025-04-27T17:29:20: Mise en place health check
