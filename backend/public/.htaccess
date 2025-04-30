@@ -1,0 +1,51 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+
+    RewriteEngine On
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} (.+)/$
+    RewriteRule ^ %1 [L,R=301]
+
+    # Send Requests To Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+
+    # Block PHP file execution in uploads directory (prevent malicious uploads)
+    <Directory "/path/to/uploads">
+        <FilesMatch "\.php$">
+            Order Deny,Allow
+            Deny from all
+        </FilesMatch>
+    </Directory>
+
+    # Prevent direct access to .env, configuration, and log files
+    <FilesMatch "(\.env|\.htaccess|\.htpasswd|config\.php|\.log|phpinfo\.php)">
+        Order Deny,Allow
+        Deny from all
+    </FilesMatch>
+
+    # Prevent access to hidden files (e.g., .git, .svn)
+    RewriteRule "(^|/)\." - [F]
+
+    # Mitigate some common XSS attacks
+    Header set X-XSS-Protection "1; mode=block"
+
+    # Prevent MIME-type sniffing
+    Header set X-Content-Type-Options "nosniff"
+
+    # Enable a strict referrer policy
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+
+    # Enable Content Security Policy (adjust as needed)
+    Header set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; object-src 'none';"
+
+</IfModule>
