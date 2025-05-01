@@ -1,0 +1,129 @@
+[2025-04-30 23:01:21] local.ERROR: An error occurred while creating the graph; GraphViz returned: 'dot' is not recognized as an internal or external command,
+operable program or batch file. {"exception":"[object] (phpDocumentor\\GraphViz\\Exception(code: 0): An error occurred while creating the graph; GraphViz returned: 'dot' is not recognized as an internal or external command,
+
+operable program or batch file. at C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\phpdocumentor\\graphviz\\src\\phpDocumentor\\GraphViz\\Graph.php:375)
+[stacktrace]
+#0 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\beyondcode\\laravel-er-diagram-generator\\src\\GenerateDiagramCommand.php(80): phpDocumentor\\GraphViz\\Graph->export()
+#1 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): BeyondCode\\ErdGenerator\\GenerateDiagramCommand->handle()
+#2 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure()
+#4 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#5 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(696): Illuminate\\Container\\BoundMethod::call()
+#6 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(213): Illuminate\\Container\\Container->call()
+#7 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\symfony\\console\\Command\\Command.php(279): Illuminate\\Console\\Command->execute()
+#8 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(182): Symfony\\Component\\Console\\Command\\Command->run()
+#9 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\symfony\\console\\Application.php(1094): Illuminate\\Console\\Command->run()
+#10 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\symfony\\console\\Application.php(342): Symfony\\Component\\Console\\Application->doRunCommand()
+#11 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\symfony\\console\\Application.php(193): Symfony\\Component\\Console\\Application->doRun()
+#12 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Symfony\\Component\\Console\\Application->run()
+#13 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1235): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\artisan(13): Illuminate\\Foundation\\Application->handleCommand()
+#15 {main}
+"} 
+[2025-04-30 23:05:36] local.ERROR: An error occurred while creating the graph; GraphViz returned: 'dot' is not recognized as an internal or external command,
+operable program or batch file. {"exception":"[object] (phpDocumentor\\GraphViz\\Exception(code: 0): An error occurred while creating the graph; GraphViz returned: 'dot' is not recognized as an internal or external command,
+
+operable program or batch file. at C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\phpdocumentor\\graphviz\\src\\phpDocumentor\\GraphViz\\Graph.php:375)
+[stacktrace]
+#0 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\beyondcode\\laravel-er-diagram-generator\\src\\GenerateDiagramCommand.php(80): phpDocumentor\\GraphViz\\Graph->export()
+#1 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): BeyondCode\\ErdGenerator\\GenerateDiagramCommand->handle()
+#2 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure()
+#4 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#5 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(696): Illuminate\\Container\\BoundMethod::call()
+#6 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(213): Illuminate\\Container\\Container->call()
+#7 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\symfony\\console\\Command\\Command.php(279): Illuminate\\Console\\Command->execute()
+#8 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(182): Symfony\\Component\\Console\\Command\\Command->run()
+#9 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\symfony\\console\\Application.php(1094): Illuminate\\Console\\Command->run()
+#10 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\symfony\\console\\Application.php(342): Symfony\\Component\\Console\\Application->doRunCommand()
+#11 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\symfony\\console\\Application.php(193): Symfony\\Component\\Console\\Application->doRun()
+#12 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Symfony\\Component\\Console\\Application->run()
+#13 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1235): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\artisan(13): Illuminate\\Foundation\\Application->handleCommand()
+#15 {main}
+"} 
+[2025-04-30 23:06:53] local.ERROR: An error occurred while creating the graph; GraphViz returned: 'dot' is not recognized as an internal or external command,
+operable program or batch file. {"exception":"[object] (phpDocumentor\\GraphViz\\Exception(code: 0): An error occurred while creating the graph; GraphViz returned: 'dot' is not recognized as an internal or external command,
+
+operable program or batch file. at C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\phpdocumentor\\graphviz\\src\\phpDocumentor\\GraphViz\\Graph.php:375)
+[stacktrace]
+#0 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\beyondcode\\laravel-er-diagram-generator\\src\\GenerateDiagramCommand.php(80): phpDocumentor\\GraphViz\\Graph->export()
+#1 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): BeyondCode\\ErdGenerator\\GenerateDiagramCommand->handle()
+#2 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure()
+#4 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#5 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(696): Illuminate\\Container\\BoundMethod::call()
+#6 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(213): Illuminate\\Container\\Container->call()
+#7 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\symfony\\console\\Command\\Command.php(279): Illuminate\\Console\\Command->execute()
+#8 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(182): Symfony\\Component\\Console\\Command\\Command->run()
+#9 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\symfony\\console\\Application.php(1094): Illuminate\\Console\\Command->run()
+#10 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\symfony\\console\\Application.php(342): Symfony\\Component\\Console\\Application->doRunCommand()
+#11 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\symfony\\console\\Application.php(193): Symfony\\Component\\Console\\Application->doRun()
+#12 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Symfony\\Component\\Console\\Application->run()
+#13 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1235): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\artisan(13): Illuminate\\Foundation\\Application->handleCommand()
+#15 {main}
+"} 
+[2025-04-30 23:07:12] local.ERROR: An error occurred while creating the graph; GraphViz returned: 'dot' is not recognized as an internal or external command,
+operable program or batch file. {"exception":"[object] (phpDocumentor\\GraphViz\\Exception(code: 0): An error occurred while creating the graph; GraphViz returned: 'dot' is not recognized as an internal or external command,
+
+operable program or batch file. at C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\phpdocumentor\\graphviz\\src\\phpDocumentor\\GraphViz\\Graph.php:375)
+[stacktrace]
+#0 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\beyondcode\\laravel-er-diagram-generator\\src\\GenerateDiagramCommand.php(80): phpDocumentor\\GraphViz\\Graph->export()
+#1 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): BeyondCode\\ErdGenerator\\GenerateDiagramCommand->handle()
+#2 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure()
+#4 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#5 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(696): Illuminate\\Container\\BoundMethod::call()
+#6 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(213): Illuminate\\Container\\Container->call()
+#7 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\symfony\\console\\Command\\Command.php(279): Illuminate\\Console\\Command->execute()
+#8 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(182): Symfony\\Component\\Console\\Command\\Command->run()
+#9 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\symfony\\console\\Application.php(1094): Illuminate\\Console\\Command->run()
+#10 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\symfony\\console\\Application.php(342): Symfony\\Component\\Console\\Application->doRunCommand()
+#11 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\symfony\\console\\Application.php(193): Symfony\\Component\\Console\\Application->doRun()
+#12 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Symfony\\Component\\Console\\Application->run()
+#13 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1235): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\artisan(13): Illuminate\\Foundation\\Application->handleCommand()
+#15 {main}
+"} 
+[2025-04-30 23:18:43] local.ERROR: Route [login] not defined. {"exception":"[object] (Symfony\\Component\\Routing\\Exception\\RouteNotFoundException(code: 0): Route [login] not defined. at C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\UrlGenerator.php:517)
+[stacktrace]
+#0 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\helpers.php(853): Illuminate\\Routing\\UrlGenerator->route()
+#1 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Configuration\\ApplicationBuilder.php(278): route()
+#2 [internal function]: Illuminate\\Foundation\\Configuration\\ApplicationBuilder->Illuminate\\Foundation\\Configuration\\{closure}()
+#3 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(118): call_user_func()
+#4 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(105): Illuminate\\Auth\\Middleware\\Authenticate->redirectTo()
+#5 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(88): Illuminate\\Auth\\Middleware\\Authenticate->unauthenticated()
+#6 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(62): Illuminate\\Auth\\Middleware\\Authenticate->authenticate()
+#7 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(209): Illuminate\\Auth\\Middleware\\Authenticate->handle()
+#8 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(127): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#9 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then()
+#10 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack()
+#11 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute()
+#12 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute()
+#13 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(201): Illuminate\\Routing\\Router->dispatch()
+#14 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(170): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}()
+#15 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#16 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#17 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(209): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle()
+#18 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#19 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#20 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(209): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle()
+#21 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#22 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(209): Illuminate\\Http\\Middleware\\ValidatePostSize->handle()
+#23 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(110): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#24 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(209): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle()
+#25 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#26 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(209): Illuminate\\Http\\Middleware\\HandleCors->handle()
+#27 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#28 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(209): Illuminate\\Http\\Middleware\\TrustProxies->handle()
+#29 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#30 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(209): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle()
+#31 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(127): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#32 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(176): Illuminate\\Pipeline\\Pipeline->then()
+#33 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#34 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle()
+#35 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest()
+#36 C:\\Users\\LENOVO\\Desktop\\BlaBlaMe\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('...')
+#37 {main}
+"} 
